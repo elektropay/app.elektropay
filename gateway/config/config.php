@@ -14,7 +14,7 @@
 |	http://example.com/
 |
 */
-$config['base_url'] = "https://elektropay-app.herokuapp.com/";
+$config['base_url'] = "http://elektropay-app.herokuapp.com/";
 
 /*
 |--------------------------------------------------------------------------
