@@ -38,9 +38,9 @@ $active_group = "default";
 $active_record = TRUE;
 
 $db['default']['hostname'] = "https://108.167.191.197:3306";
-$db['default']['username'] = "everpay_master";
-$db['default']['password'] = 'Parise03';
-$db['default']['database'] = "everpay_engine";
+$db['default']['username'] = "ba7c7d97f12d5e";
+$db['default']['password'] = '664a2842';
+$db['default']['database'] = "heroku_369b4602dd6cef3";
 $db['default']['dbdriver'] = "mysql";
 $db['default']['dbprefix'] = "";
 $db['default']['pconnect'] = TRUE;
