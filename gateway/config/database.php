@@ -37,7 +37,7 @@
 $active_group = "default";
 $active_record = TRUE;
 
-$db['default']['hostname'] = "https://108.167.191.197:3306";
+$db['default']['hostname'] = "mysql://ba7c7d97f12d5e:664a2842@us-cdbr-iron-east-05.cleardb.net/heroku_369b4602dd6cef3?reconnect=true";
 $db['default']['username'] = "ba7c7d97f12d5e";
 $db['default']['password'] = '664a2842';
 $db['default']['database'] = "heroku_369b4602dd6cef3";
